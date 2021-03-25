@@ -1,0 +1,22 @@
+h1
+{
+	color:rebeccapurple; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: rgb(20, 230, 202);
+	border-style: ridge;
+
+}
+body{
+
+    background-color: rgb(241, 195, 11);
+
+}
